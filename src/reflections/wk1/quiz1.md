@@ -31,24 +31,24 @@ CSS stands for cascading style sheets, it is used to style HTML code.
    color : rgba(255, 210, 33, .75);
  }
 ```
-<!-- enter you answer in the space below -->
+The selector (h1.main title), the property (color), and the value(rgba(#))
 ```
 
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
 ```
-I would change the font-stlye to 'bold'.
+I would but the bolded text inside a <b><b/> tag.
 ```
 
 **8.** In what tag does the majority of your code belong?
 ```
-Inside the <body></body> tag.
+Inside the <html></html> tag.
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 ```
-The three tags that can be used to make lists are <ul></ul>, <ol></ol> and
+The three tags that can be used to make lists are <ul></ul>, <ol></ol> and <dl></dl>
 ```
 
 **10.** Define the display `:flex property:`
