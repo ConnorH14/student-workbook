@@ -14,4 +14,4 @@ The !important property overrides any specificity from all linked stylesheets. Y
 
 # Daily Challenge Link
 
-> https://connorh14.github.io/CoolSite/
+> [Cool Site](https://connorh14.github.io/CoolSite/)
