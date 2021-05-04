@@ -12,6 +12,6 @@ Specificity is what CSS uses to determine which effect should be applied to an e
 
 The !important property overrides any specificity from all linked stylesheets. You can run into issues using it if there is more than 1 !important property applied to an element. Using it is typically bad practice. 
 
-> Daily Challenge Link
+# Daily Challenge Link
 
-https://connorh14.github.io/CoolSite/
+> https://connorh14.github.io/CoolSite/
