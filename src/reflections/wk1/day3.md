@@ -1,10 +1,18 @@
 # Cheating at Design
 
-> What is your favorite tip that you think is the most beneficial to improving your design?
+> A good tip to improve your design.
 
-> Compile a couple resources that you think might be helpful when trying to review examples of good design ideas.
+Using accent borders with a bit of color was my favorite design tip from the blog. It's a very simple thing to add but it makes your page much more interesting to look at. 
 
-> How do you think good design influences people when visiting a website and what sorts of things could you convey through design alone?
+> These websites have great designs:
+
+- [Spotify Design](https://spotify.design/)
+- [Woven Magazine](https://wovenmagazine.com/)
+- [Shaky Graves](https://www.shakeygraves.com/)
+
+> The influence of good design.
+
+Good design makes your website easier to use. Good design looks intuative and features should require as little explanation as possible. Through design you can convey the purpose of your site easily, like if it is a store or a place to chat with people. 
 
 # Daily Challend Link
 
