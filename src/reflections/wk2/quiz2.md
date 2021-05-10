@@ -1,15 +1,13 @@
 # Intro to JavaScript
 
 **1.** Which keywords are used to declare a variable in JavaScript?
-<!-- enter you answer in the space below -->
-```
 
-```
+var, let, and const.
+
 **2.** What is the definition of a function?
-<!-- enter you answer in the space below -->
-```
 
-```
+A function is a block of code that can be called to run somewhere else in the code.
+
 **3.** What are the `SOLID` principles?
 <!-- enter you answer in the space below -->
 ```
@@ -20,10 +18,9 @@
 let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 ``` 
 What index is the pineapple's current position? How do you know?
-<!-- enter you answer in the space below -->
-```
 
-```
+The index of the pineapple is fruit[2] it is 3 positions from the start and counting starts at 0.
+
 **5.** With these two objects: 
 ```js
 let you = { name:"You", hair: true, friends: [] }
@@ -50,10 +47,8 @@ for ( let i = 0; i < arr.length; _______ ) {
 
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
-<!-- enter you answer in the space below -->
-```
 
-```
+DOM stands for Document Object Model, and the first file accessed to render the DOM is the html file.
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
