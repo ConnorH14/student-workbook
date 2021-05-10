@@ -10,6 +10,6 @@ Wireframes can have multiple levels of detail, from pen and paper to using speci
 
 > Do you think wire-frames are worth the Time, Energy, and Effort that they require? Why or Why not?
 
-Absolutely, they are relatively quick to make and let clients see the product before and time or resources go into developing code for the site.
+Absolutely, they are relatively quick to make and let clients see the product before time and resources go into developing code for the site.
 
 > [John Deere Site](https://connorh14.github.io/john-deere-clone/)
