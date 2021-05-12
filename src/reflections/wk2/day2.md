@@ -22,9 +22,11 @@ The arrow function is a shorter way to write a function.
 
 
 > What is the difference between Parameters and Arguments?
+
 Arguments are passed into a function, and parameters are used to define what happens to the argument in a function.
 
 > What are higher order functions? Can you provide an example?
+
 Higher order functions are just functions that can accept a function as an argument, or return a function as a result. 
 
 > [Javascript Challenges](https://connorh14.github.io/js-tests-loops-and-arrays/)
