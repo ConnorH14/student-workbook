@@ -27,25 +27,20 @@ let you = { name:"You", hair: true, friends: [] }
 let them = { name:"Them", hair: false, friends: [] }
 ```
 how would you .push the `them` object into the `you` object's array of friends?
-<!-- enter you answer in the space below -->
-```
 
-```
+you.friends.push(them)
 
 **6.** Give an example of a JavaScript `Conditional`:
-<!-- enter you answer in the space below -->
-```
+A JavaScript conditional would be something like == or >=, its a statement that checks if something is true, like if x is greater than or equal to y.
 
-```
 **7.** In the `for loop` below, what is the name of the piece belongs inside the empty "______" space? What would you put here to increase `i` by one on every iteration?
 ```js
 for ( let i = 0; i < arr.length; _______ ) {
   //...
 ```
-<!-- enter you answer in the space below -->
-```
+The last space in the for loop is the update action, and it occurs at the end of every iteration.
+I would use i++ to increase i every iteration.
 
-```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
 
 DOM stands for Document Object Model, and the first file accessed to render the DOM is the html file.
