@@ -57,4 +57,4 @@ Arguments are passed into parameters in a function. The paramater allows differe
 
 A primitive value can be undefined, null, boolean, number, string or a symbol. A reference type is an object or an array.
 
->[Checkpoint Two](https://connorh14.github.io/SlapGame/)
+>[Checkpoint Two](https://connorh14.github.io/auto-clicker/)
