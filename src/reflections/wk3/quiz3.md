@@ -1,10 +1,9 @@
 # Application Architecture, MVC Design Pattern
 
 **1.** What are the Pillars of Object Oriented Programming (`OOP`)?
-<!-- enter you answer in the space below -->
-```
 
-```
+Encapsulation, Abstraction, Inheritance, Polymorphism
+
 **2.** How would you access the `name` of the below object using the `property` variable?
 ```js
 let staff = {
@@ -14,50 +13,37 @@ let staff = {
   }
 let property = 'name'
 ```
-<!-- enter you answer in the space below -->
-```
+staff[property]
 
-```
 **3.** What is Encapsulation?
-<!-- enter you answer in the space below -->
-```
 
-```
+Encapsulation spreads out code and only is accessed when it is needed, and only through the intended method.
+
 **4.** What does the S stand for in the `SOLID` principles?
-<!-- enter you answer in the space below -->
-```
 
-```
+Single responsibility
+
 **5.** What the difference between a `class` and an instance of a `class`?
-<!-- enter you answer in the space below -->
-```
 
-```
+A class defines a place for the values of a class instance
+
 **6.** What is a `Proxy` object?
-<!-- enter you answer in the space below -->
-```
 
-```
+It is an object that can wrap another object
 
 **7.** What is the purpose of the `MVC` pattern?
-<!-- enter you answer in the space below -->
-```
 
-```
+It is to seperate parts of your code out into what interacts with the page, and how the data is manipulated. 
+
 **8.** What is the job of the `Controller` in the `MVC` Pattern?
-<!-- enter you answer in the space below -->
-```
 
-```
+The controller passes data to and from a service, and manipulates the DOM.
 
 **9.** What is the job of the `Service` in `MVC`?
-<!-- enter you answer in the space below -->
-```
 
-```
+The service takes in data from a controller, and returns the new data.
+
 **10.** What is the job of the `Model` in `MVC`?
-<!-- enter you answer in the space below -->
-```
 
-```
+The model defines classes, which can be given instances in the App state.
 
