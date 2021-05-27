@@ -11,3 +11,5 @@ Promises with callbacks allow you to not have to nest your code in a callback.
 > What is the difference between .then() and .catch()?
 
 .then is when the request is accepted, the catch happens when the request fails.
+
+> [Trivia Game](https://connorh14.github.io/trivia-game/)
