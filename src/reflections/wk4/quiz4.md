@@ -13,15 +13,13 @@ An event listener is a part of code that waits for an event to happen, like a mo
 Open/ closed principle.
 
 **4.** What is a callback / higher order function?
-<!-- enter you answer in the space below -->
-```
 
-```
+It is a function that does not return a value as soon as it is called.
+
 **5.** What is a `promise`? How do you capture an error from a `promise`?
-<!-- enter you answer in the space below -->
-```
 
-```
+A promise is something that will either return data or it wont, use catch to capture a promise error.
+
 **6.** Name three processes used to make requests over `HTTP`?
 
 Put, Post, and get
@@ -35,10 +33,9 @@ Application programming interface
 The service
 
 **9.** What is the purpose of encapsulation in programming?
-<!-- enter you answer in the space below -->
-```
 
-```
+Encapsulation reduces sizes of files and makes sure that funstions are only accesed in the intended way.
+
 **10.** What is `HTTP` response code for a successful request?
 
 200
