@@ -10,5 +10,7 @@ Linking relationships are more efficiant than embedding, and can be easier to ke
 
 > What are some of the challenges faced when deciding how to manage a many-to-many relationship that ultimately drive your decision on how to create it?
 
+Many to many relationships are tricky because they are easy to implement incorrectly and the amount of data managed can quikcly increase and become overwhelming.
+
 > [Burger Server](https://github.com/ConnorH14/burger-server)
 
