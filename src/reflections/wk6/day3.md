@@ -11,3 +11,5 @@ So far I have only used onMounted on components in my afternoon projects.
 > What are mounting hooks? When might you use them?
 
 Mounting hooks allow you to access a component before it is rendered.
+
+[gregslist](https://github.com/ConnorH14/summer21-gregslist-vue)

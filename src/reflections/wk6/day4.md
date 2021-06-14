@@ -11,3 +11,5 @@ When you need to access a router page from inside a component
 > Can you pass parameters through nested routes? When might you use them?
 
 You might use parameters in a nested route to check an id.
+
+[pokedex](https://github.com/ConnorH14/pokedex-vue)

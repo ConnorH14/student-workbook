@@ -11,3 +11,5 @@ Components are easy to replicate on different parts of the website, they are sel
 > What are some drawbacks to Component based architecture?
 
 While using component based architecture, it is very easy to over-engineer a webpage, and it can become difficult to read.
+
+[Vue Playground](https://github.com/ConnorH14/vue-playground)
