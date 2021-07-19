@@ -11,3 +11,5 @@ CREATE NEW IF NOT EXISTS(table name)
 > What is the difference between the following statements: delete from and drop table
 
 Delete from drops an item, drop destroys the table.
+
+[Knights](https://github.com/ConnorH14/knights)
