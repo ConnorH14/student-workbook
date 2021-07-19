@@ -2,20 +2,17 @@
 
 
 **1.** What is the purpose of a `namespace`?
-<!-- enter you answer in the space below -->
-```
 
-```
+A namespace organizes code and lets it be called in a using statement.
+
 **2.** What is the difference between a `class` and a `struct`?
-<!-- enter you answer in the space below -->
-```
 
-```
+A class can have methods defined in it that are called in other places.
+
 **3.** What is the method that returns an instance of a class, yet it has no return type?
-<!-- enter you answer in the space below -->
-```
 
-```
+A void method
+
 ## Example 1
 ```c#
 abstract class Car
@@ -28,32 +25,26 @@ abstract class Car
 }
 ```
 **5.** In the example what is the access modifier of the `Start()` method?
-<!-- enter you answer in the space below -->
-```
 
-```
+public
+
 **6.** In the example what is `string` an indication of?
-<!-- enter you answer in the space below -->
-```
 
-```
+the returned value is a string.
+
 **7.** In the example what is `abstract` preventing?
-<!-- enter you answer in the space below -->
-```
 
-```
+It is preventing a no return error.
+
 **8.** In the example what is the purpose of `virtual`?
-<!-- enter you answer in the space below -->
-```
 
-```
+It means it will be attached to something.
+
 **9.** Name four access modifiers:
-<!-- enter you answer in the space below -->
-```
 
-```
+public, private, internal, protected
+
 **10.** If you set a class or method to private, what can access it?
-<!-- enter you answer in the space below -->
-```
 
-```
+
+Only other methods in the class.
