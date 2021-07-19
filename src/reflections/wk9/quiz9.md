@@ -1,52 +1,41 @@
 # Working in a Professional Environment
 
 **1.** What is Inheritance?
-<!-- enter you answer in the space below -->
-```
 
-```
+One thing extends another thing.
+
 **2.** What is the `Singleton` design pattern?
-<!-- enter you answer in the space below -->
-```
 
-```
+A singleton has methods on it that can be used.
+
 **3.** What is the `Observer` design pattern?
-<!-- enter you answer in the space below -->
-```
 
-```
+Observers watch for any state changes.
+
 **4.** What is the `Strategy` design pattern?
-<!-- enter you answer in the space below -->
-```
 
-```
+Selecting an algorithm at runtime.
+
 **5.** What is the `Factory` design pattern?
-<!-- enter you answer in the space below -->
-```
 
-```
+Reusable methods.
+
 **6.** What is test driven development?
-<!-- enter you answer in the space below -->
-```
 
-```
+Developing in small, working parts that can be sent to the client each week.
+
 **7.** In Scrum/Agile what is the DoD?
-<!-- enter you answer in the space below -->
-```
 
-```
+DoD is definition of done, and it is how you know you are done with a project. It defines the end.
+
 **8.** Give two examples of a user story:
-<!-- enter you answer in the space below -->
-```
 
-```
+User stories are what the team uses to figure out what the application needs to be able to do.
+
 **9.** During which ceremony is your Sprint Backlog created?
-<!-- enter you answer in the space below -->
-```
 
-```
+The beginning of the sprint.
+
 **10.** In which of these ceremonies are Tasks assigned to you?
-<!-- enter you answer in the space below -->
-```
 
-```
+Tasks are assinged at the daily stand-up.
